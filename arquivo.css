@@ -49,6 +49,7 @@ body{
     margin: 20px auto; /* Adiciona uma margem superior e inferior de 20 pixels e centraliza o conteúdo horizontalmente */
     padding: 10px; /* Adiciona um preenchimento interno de 10 pixels em todos os lados */
     border-radius: 5px; /* Arredonda os cantos da borda do conteúdo em 5 pixels */
+    box-shadow: 5px 10px #888888; /*adiciona uma sombra a div conteudo*/
 }
 
 /* Estilos para os parágrafos dentro da área de conteúdo */
